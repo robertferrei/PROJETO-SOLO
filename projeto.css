@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    flex-direction: center;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 24px;
+    line-height: 100px;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    color: blueviolet;
+    width: 100px;
+    height: 200px;
+    justify-content:center
+}
+
+h2 {
+    font-size: 80px;
+    font-weight: 24px;
+    line-height: 100px;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    color: blueviolet;
+    width: 100px;
+    height: 100px;
+
+}
+h3{
+    color: antiquewhite;
+    font-size: 36px;
+    line-height: 100px;
+}
+p{
+    color: antiquewhite;
+    font-size: 26px;
+    line-height: 39px;
+
+}
+.link-header{
+    border-radius: 10px;
+     
+}
+.botao-2{
+    color: darkorchid;
+    font-weight: 20px;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 100px;
+    cursor: pointer;
+}
+    
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 0px;
+    color: blueviolet;
+    cursor: pointer;
+    margin: 23px;
+    flex-direction: end;
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+    
+
+}
+
+.botao-1 {
+    color: darkorchid;
+    font-weight: 20px;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+body {
+    font-size: 100%;
+    background-image: url(https://images.unsplash.com/photo-1638184984605-af1f05249a56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTN8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80)
+}
+input{
+    border-radius: 30px;
+    background-color: black;
+    font-size: 20px;
+    color: antiquewhite
+    ;
+}
+header{
+    margin: 44px 0 144px 76px;
+}
+ 
